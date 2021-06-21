@@ -1,6 +1,6 @@
-# TravQuery Angular  
+# Basic angular setup  
 ***
-This contains angular setup of trav query website
+This contains angular setup of website
 
 ## Table of Contents
 1. [General Info](#general-info)
